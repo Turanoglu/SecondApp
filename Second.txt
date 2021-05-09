@@ -1,1 +1,2 @@
-Bu ilk satırdır
+Bu ilk satırdır.
+Merhaba, bu yaptığım son değişikliktir.
